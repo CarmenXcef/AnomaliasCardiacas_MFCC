@@ -1,0 +1,12 @@
+---------------------------SVM---------------------------
+ventanas de: 30ms
+Accuracy: 0.415
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+          -1       0.35      0.20      0.25       150
+           1       0.44      0.63      0.52       151
+
+    accuracy                           0.42       301
+   macro avg       0.40      0.41      0.39       301
+weighted avg       0.40      0.42      0.39       301

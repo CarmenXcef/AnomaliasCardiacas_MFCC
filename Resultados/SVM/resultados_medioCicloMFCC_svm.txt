@@ -1,0 +1,12 @@
+---------------------------SVM---------------------------
+ventanas de: medioCiclo
+Accuracy: 0.462
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+          -1       0.44      0.28      0.34       150
+           1       0.47      0.64      0.54       151
+
+    accuracy                           0.46       301
+   macro avg       0.46      0.46      0.44       301
+weighted avg       0.46      0.46      0.44       301
