@@ -1,0 +1,17 @@
+---------------------- RANDOM FOREST ----------------------
+Clasificación utilizando diferencias con ventanas de: 5seg
+Accuracy: 0.033
+------------------------------------------------------------
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00       150
+           1       0.06      0.07      0.06       151
+
+    accuracy                           0.03       301
+   macro avg       0.03      0.03      0.03       301
+weighted avg       0.03      0.03      0.03       301
+------------------------------------------------------------
+Matriz de confusión:
+[[  0 150]
+ [141  10]]

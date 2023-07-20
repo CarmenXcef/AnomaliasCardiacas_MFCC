@@ -1,0 +1,17 @@
+-------------------- SVM --------------------
+Clasificación utilizando diferencias con ventanas de: 5seg
+Accuracy: 0.488
+------------------------------------------------------------
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00       150
+           1       0.49      0.97      0.66       151
+
+    accuracy                           0.49       301
+   macro avg       0.25      0.49      0.33       301
+weighted avg       0.25      0.49      0.33       301
+------------------------------------------------------------
+Matriz de confusión:
+[[  0 150]
+ [  4 147]]

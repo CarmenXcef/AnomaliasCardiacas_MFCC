@@ -1,0 +1,17 @@
+-------------------- SVM --------------------
+Clasificación utilizando MFCC con ventanas de: 5seg
+Accuracy: 0.389
+------------------------------------------------------------
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+          -1       0.23      0.10      0.14       150
+           1       0.43      0.68      0.53       151
+
+    accuracy                           0.39       301
+   macro avg       0.33      0.39      0.33       301
+weighted avg       0.33      0.39      0.33       301
+------------------------------------------------------------
+Matriz de confusión:
+[[ 15 135]
+ [ 49 102]]

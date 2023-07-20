@@ -1,0 +1,17 @@
+---------------------- RANDOM FOREST ----------------------
+Clasificación utilizando MFCC con ventanas de: 5seg
+Accuracy: 0.013
+------------------------------------------------------------
+Reporte de clasificación:
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00       150
+           1       0.03      0.03      0.03       151
+
+    accuracy                           0.01       301
+   macro avg       0.01      0.01      0.01       301
+weighted avg       0.01      0.01      0.01       301
+------------------------------------------------------------
+Matriz de confusión:
+[[  0 150]
+ [147   4]]
